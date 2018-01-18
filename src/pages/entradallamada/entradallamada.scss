@@ -1,5 +1,5 @@
-page-home {
-    .pagina{
+page-entradallamada {
+    .pagina2{
         background:#0B0B61;
     }
 
@@ -15,32 +15,33 @@ page-home {
         top: 50px;
         left: 20px; 
     }
-    .Entrallama{
-        color: white;
-        font-size: 24px;
+    .abrir{
+        width: 5%;
         position: relative;
-        top: 60px; 
+        top: 100px;
+        left: 655px;
     }
     .fin{
         width: 15%;
         position: relative;
-        top: 100px;
-        left: 530px;
+        top: 120px;
+        left: 350px;
     }
     .icono{
         color: red;  
     }
-    .entra{
-        width: 15%;
+    .cerrar{
+        width: 5%;
         position: relative;
-        top: 100px;
-        left: 400px;
+        top: 160px;
+        left: 580px;
     }
-    .icono2{
-        color: green;
-        
+    .finllama{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        top: 110px; 
+        left: 480px;
     }
-
-
-
+    
 }
